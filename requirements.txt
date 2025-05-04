@@ -1,0 +1,9 @@
+torch==2.3.0+cpu
+torchvision==0.18.0+cpu
+torchaudio==2.3.0+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+transformers
+Pillow
+ollama
+accelerate
+pandas
