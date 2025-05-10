@@ -28,4 +28,4 @@ class VQAPipeline:
             
 if __name__ ==  "__main__": 
     return_data = VQAPipeline().run(image_path="image.jpg",num_questions=8)
-    #print(return_data)
+    print("\n\n",return_data)
