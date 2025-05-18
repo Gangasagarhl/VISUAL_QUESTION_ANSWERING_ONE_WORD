@@ -3,3 +3,5 @@ myenv/
 final_ready_to_go/
 images.csv/
 merged_images_listings.csv/
+.ipynb_checkpoints/
+Data/
