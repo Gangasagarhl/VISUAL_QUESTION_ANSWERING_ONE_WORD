@@ -120,6 +120,7 @@ def main():
 
     # Add to DataFrame and save
     df["generated_answer"] = generated_answers
+    print(df.head())
     df.to_csv("results.csv", index=False)
 
 if __name__ == "__main__":
