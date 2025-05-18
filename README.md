@@ -27,12 +27,6 @@ Both models were benchmarked and later fine-tuned using **LoRA (Low-Rank Adaptat
 
  **Up to 28.6% improvement** in Exact Match, alongside notable gains in semantic alignment.
 
-## 🛠 Applications
-
-- Product Cataloging
-- Visual Assistive Systems
-- Multimodal Information Retrieval
-- Natural Language-driven Image Understanding
 
 ---
 
