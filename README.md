@@ -37,7 +37,7 @@ Both models were benchmarked and later fine-tuned using **LoRA (Low-Rank Adaptat
 ---
 
  All code, data preprocessing scripts, and fine-tuning configuration are included in this repository.
- Report has been uploaded here [issues](https://github.com/Gangasagarhl/VISUAL_QUESTION_ANSWERING_ONE_WORD/blob/main/VR_REPORT.pdf).
+ Report has been uploaded here [LINK](https://github.com/Gangasagarhl/VISUAL_QUESTION_ANSWERING_ONE_WORD/blob/main/VR_REPORT.pdf).
 
 
 
